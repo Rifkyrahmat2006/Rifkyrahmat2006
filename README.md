@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **rifkyrahmat2006@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** [soedirmantstudentsummit](https://soedirmanstudentsummit.unsoed.ac.id/)
+- 🔭 **I’m currently working on:** [Cipta Muri](https://ciptamuri.com/)
 - 🌱 **I’m currently learning at:**
 Universitas Jenderal Soedirman 
 - 👯 **I’m looking to collaborate on:** Sofware Dev Project
